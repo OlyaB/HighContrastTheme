@@ -1,0 +1,15 @@
+{
+  "name": "HighContrast",
+  "dark": true,
+  "author": "Olga Berdnikova",
+  "ui": {
+
+  },
+
+  "icons": {
+    "ColorPalette": {
+      "Actions.Grey": "#FFFFFF",
+      "Actions.Green": ""
+    }
+  }
+}
