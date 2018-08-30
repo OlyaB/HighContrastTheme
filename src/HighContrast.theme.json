@@ -1,15 +1,88 @@
 {
-  "name": "HighContrast",
+  "name": "High сontrast",
   "dark": true,
   "author": "Olga Berdnikova",
   "ui": {
+    "*": {
+      "background": "#000000",
+      "foreground": "#FFFFFF",
+      "selectionBackground": "#1AEBFF",
+      "selectionForeground": "#000000",
+
+      "disabledBackground": "#33210C",
+      "disabledForeground": "#E0861F"
+    },
+
+    "Button.darcula": {
+      "startColor": "#000000",
+      "endColor": "#000000",
+      "outlineStartColor": "#FFFFFF",
+      "outlineEndColor": "#FFFFFF",
+      "focusedOutlineColor": "#1AEBFF",
+
+      "defaultStartColor": "#1AEBFF",
+      "defaultEndColor": "#1AEBFF",
+      "defaultOutlineColor": "#1AEBFF",
+      "outlineDefaultStartColor": "#1AEBFF",
+      "outlineDefaultEndColor": "#1AEBFF",
+      "defaultFocusedOutlineColor": "#000000",
+
+      "selectedButtonForeground": "#000000"
+
+    },
+
+    "ComboBox.darcula": {
+      "nonEditableBackground": "#000000",
+      "arrowButtonBackground": "#000000",
+      "editable.arrowButtonBackground": "#000000",
+      "arrowButtonForeground": "#FFFFFF",
+      "arrowButtonDisabledForeground": "#AA6E28"
+    },
+
+    "Outline": {
+      "color": "#FFFFFF",
+      "disabledColor": "#AA6E28",
+      "focusedColor": "#1AEBFF"
+    },
+
+    "Focus": {
+      "borderColor": "#1AEBFF",
+      "defaultButtonBorderColor": "#1AEBFF" 
+    }
 
   },
 
   "icons": {
     "ColorPalette": {
+
+      "#43494A": "#000000",
+      "#6B6B6B": "#FFFFFF",
+      "#A7A7A7": "#FFFFFF",
+      "#3D6185": "#1AEBFF",
+      "#466D94": "#1AEBFF",
+      "#3C3F41": "#000000",
+      "#545556": "#AA6E28",
+      "#606060": "#AA6E28",
+
+      "#7F8B91": "#FFFFFF",
+
       "Actions.Grey": "#FFFFFF",
-      "Actions.Green": ""
+      "Actions.Red": "#FF3633",
+      "Actions.Yellow": "#FFD333",
+      "Actions.Green": "#00E61F",
+      "Actions.Blue": "#00EAFF",
+
+      "Objects.Grey": "#FFFFFF",
+      "Objects.RedStatus": "#FF4340",
+      "Objects.Red": "#FF4340",
+      "Objects.Pink": "#FF8FA2",
+      "Objects.Yellow": "#FFD333",
+      "Objects.Green": "#00E61F",
+      "Objects.Blue": "#00EAFF",
+      "Objects.Purple": "#A880FF",
+      "Objects.BlackText": "#000000",
+      "Objects.YellowDark": "#FFD333",
+      "Objects.GreenAndroid": "#00E61F"
     }
   }
 }
