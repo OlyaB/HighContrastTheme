@@ -1,5 +1,5 @@
 {
-  "name": "High сontrast",
+  "name": "High Contrast",
   "dark": true,
   "author": "Olga Berdnikova",
   "ui": {
@@ -11,6 +11,16 @@
 
       "disabledBackground": "#33210C",
       "disabledForeground": "#E0861F"
+    },
+
+    "HeaderColor": {
+      "active": "#FF0000",
+      "inactive": "#00FF00"
+    },
+
+    "Borders": {
+      "color": "#0000ff",
+      "ContrastBorderColor": "#D2F53C"
     },
 
     "Button.darcula": {
@@ -48,7 +58,21 @@
     "Focus": {
       "borderColor": "#1AEBFF",
       "defaultButtonBorderColor": "#1AEBFF" 
-    }
+    },
+
+    "ToolTip.background": "#40174D",
+
+    "ToolWindow.header": {
+      "active.background": "#650D80",
+      "background": "40174D",
+      "border.background": "#FFFFFF",
+      "tab.selected": {
+        "active.background": "#000000",
+        "background": "#000000"
+      }
+    },
+
+    "SidePanel.background": "#000000"
 
   },
 
