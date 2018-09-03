@@ -10,17 +10,13 @@
       "selectionForeground": "#000000",
 
       "disabledBackground": "#33210C",
-      "disabledForeground": "#E0861F"
+      "disabledForeground": "#E0861F",
+      "disabledText": "#E0861F"
     },
 
-    "HeaderColor": {
-      "active": "#FF0000",
-      "inactive": "#00FF00"
-    },
-
-    "Borders": {
-      "color": "#0000ff",
-      "ContrastBorderColor": "#D2F53C"
+    "ActionButton": {
+      "hoverBackground": "#000080",
+      "pressedBackground": "#000080"
     },
 
     "Button.darcula": {
@@ -37,8 +33,16 @@
       "outlineDefaultEndColor": "#1AEBFF",
       "defaultFocusedOutlineColor": "#000000",
 
-      "selectedButtonForeground": "#000000"
+      "selectedButtonForeground": "#000000",
 
+      "disabledOutlineColor": "#AA6E28",
+
+      "smallComboButtonBackground": "#000000"
+    },
+
+    "Borders": {
+      "color": "#FFFFFF",
+      "ContrastBorderColor": "#FFFFFF"
     },
 
     "ComboBox.darcula": {
@@ -49,15 +53,44 @@
       "arrowButtonDisabledForeground": "#AA6E28"
     },
 
+    "Focus": {
+      "borderColor": "#1AEBFF",
+      "defaultButtonBorderColor": "#1AEBFF"
+    },
+
+    "Label.selectedDisabledForeground": "#FF0000",
+
+    "link": {
+      "foreground": "#D2F53C"
+    },
+
     "Outline": {
       "color": "#FFFFFF",
       "disabledColor": "#AA6E28",
       "focusedColor": "#1AEBFF"
     },
 
-    "Focus": {
-      "borderColor": "#1AEBFF",
-      "defaultButtonBorderColor": "#1AEBFF" 
+    "Popup": {
+      "Border.color": "#FFFFFF",
+      "Toolbar.Border.color": "#FFFFFF",
+      "Header.activeBackground": "#000080",
+      "Header.inactiveBackground": "#000080"
+    },
+
+    "RadioButton.darcula.selectionDisabledColor": "#FF0000",
+
+    "SearchEverywhere.Tab.selected": {
+      "background": "#1AEBFF",
+      "foreground": "#FFFFFF"
+    },
+
+    "SidePanel.background": "#000000",
+
+    "Spinner.darcula.disabledButtonColor": "#FF0000",
+
+    "TabbedPane": {
+      "selectedColor": "#1AEBFF",
+      "selectedDisabledColor": "#AA6E28"
     },
 
     "ToolTip.background": "#40174D",
@@ -70,10 +103,7 @@
         "active.background": "#000000",
         "background": "#000000"
       }
-    },
-
-    "SidePanel.background": "#000000"
-
+    }
   },
 
   "icons": {
