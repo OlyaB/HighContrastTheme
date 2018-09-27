@@ -57,11 +57,11 @@
 
     "EditorTabs": {
       "active": {
-        "background": "#000000",
+        "background": "#1AEBFF",
         "underlineColor": "#1AEBFF"
       },
-      "inactive.maskColor": "",
-      "backgroundColor": ""
+      "inactive.maskColor": "#000000FF",
+      "backgroundColor": "#FFFFFF"
     },
 
     "Focus": {
@@ -193,6 +193,8 @@
       "Objects.BlackText": "#000000FF",
       "Objects.YellowDark": "#FFD333FF",
       "Objects.GreenAndroid": "#00E61FFF"
-    }
+    },
+
+    "editorScheme": "/highContrastScheme.xml"
   }
 }
