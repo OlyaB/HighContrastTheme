@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="HighContrast" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" activateToolWindowBeforeRun="false">
+    <module name="HighContrastTheme" />
+    <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -ea -Didea.is.internal=true" />
+    <option name="PROGRAM_PARAMETERS" value="" />
+    <alternative-path path="IntelliJ IDEA IU-183.2407.10" alternative-path-enabled="true" />
+    <predefined_log_file enabled="true" id="idea.log" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
