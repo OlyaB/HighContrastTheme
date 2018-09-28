@@ -2,6 +2,9 @@
   "name": "High Contrast",
   "dark": true,
   "author": "JetBrains",
+
+  "editorScheme": "/highContrastScheme.xml",
+
   "ui": {
     "*": {
       "background": "#000000",
@@ -91,6 +94,7 @@
     },
 
     "Popup": {
+      "paintBorder": true,
       "Border.color": "#FFFFFF",
       "Toolbar.Border.color": "#FFFFFF",
       "separatorColor": "#FFFFFF",
@@ -138,25 +142,22 @@
         "tab.selected": {
           "active.background": "#000000",
           "background": "#000000"
-        },
-
-        "button": {
-          "background": "#0000FF",
-          "selectedBackground": "#00FFFF",
-          "selectedForeground": "#000000"
         }
+      },
+
+      "button": {
+        "background": "#0000FF",
+        "selectedBackground": "#1AEBFF",
+        "selectedForeground": "#000000"
       }
     },
 
     "WelcomeScreen": {
-      "headerBackground": "#000000",
-      "headerForeground": "#FFFFFF",
-      "footerBackground": "#000000",
-      "footerForeground": "#FFFFFF",
-      "captionBackground": "#000000",
-      "captionForeground": "#FFFFFF",
-      "borderColor": "#FFFFFF",
-      "groupIconBorderColor": "1AEBFF"
+      "background": "#000000",
+      "Projects.background": "#000000",
+      "Projects.selectionBackground": "#1AEBFF",
+      "Projects.selectionInactiveBackground": "#1AEBFF",
+      "Separator.color": "#FFFFFF"
     },
 
     "Window.border" : "0,1,1,1,FFFFFF"
@@ -193,8 +194,6 @@
       "Objects.BlackText": "#000000FF",
       "Objects.YellowDark": "#FFD333FF",
       "Objects.GreenAndroid": "#00E61FFF"
-    },
-
-    "editorScheme": "/highContrastScheme.xml"
+    }
   }
 }
