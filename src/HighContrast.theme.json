@@ -13,8 +13,11 @@
       "selectionForeground": "#000000",
 
       "disabledBackground": "#33210C",
+      "inactiveBackground": "#33210C",
+
       "disabledForeground": "#E0861F",
-      "disabledText": "#E0861F"
+      "disabledText": "#E0861F",
+      "inactiveForeground": "#E0861F"
     },
 
     "ActionButton": {
@@ -58,6 +61,8 @@
       "arrowButtonDisabledForeground": "#AA6E28"
     },
 
+    "EditorPane.inactiveBackground": "#000000",
+
     "EditorTabs": {
       "active": {
         "foreground": "#000000",
@@ -77,7 +82,7 @@
 
     "Label": {
       "selectedDisabledForeground": "#E0861F",
-      "greyForeground": "#E0861F"
+      "grayForeground": "#E0861F"
     },
 
     "link": {
@@ -98,6 +103,12 @@
       "Error": {
         "background": "#800002",
         "borderColor": "#73454B"
+      },
+
+      "MoreButton": {
+        "foreground": "#FFFFFF",
+        "background": "#000000",
+        "innerBorderColor": "#000000"
       },
 
       "ToolWindowError": {
