@@ -86,7 +86,10 @@
     },
 
     "link": {
-      "foreground": "#D2F53C"
+      "foreground": "#D2F53C",
+      "hover.foreground": "#D2F53C",
+      "pressed.foreground": "#D2F53C",
+      "visited.foreground": "#D2F53C"
     },
 
     "Menu": {
