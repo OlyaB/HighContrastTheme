@@ -9,8 +9,8 @@
     "*": {
       "background": "#000000",
       "foreground": "#FFFFFF",
-      "selectionBackground": "#1AEBFF",
-      "selectionForeground": "#000000",
+      "selectionBackground": "#3333FF",
+      "selectionForeground": "#FFFFFF",
 
       "disabledBackground": "#33210C",
       "inactiveBackground": "#33210C",
@@ -65,9 +65,9 @@
 
     "EditorTabs": {
       "active": {
-        "foreground": "#000000",
-        "background": "#1AEBFF",
-        "underlineColor": "#1AEBFF"
+        "foreground": "#FFFFFF",
+        "background": "#3333FF",
+        "underlineColor": "#3333FF"
       },
       "inactive.maskColor": "#000000FF",
       "borderColor": "#FFFFFF"
@@ -167,8 +167,8 @@
 
     "SearchEverywhere": {
       "Tab.active": {
-        "background": "#1AEBFF",
-        "foreground": "#000000"
+        "background": "#3333FF",
+        "foreground": "#FFFFFF"
       },
       "SearchField": {
         "borderColor": "#FFFFFF",
@@ -200,19 +200,18 @@
           "background": "#000000"
         }
       },
-
       "Button": {
-        "hoverBackground": "#0000FF",
-        "selectedBackground": "#1AEBFF",
-        "selectedForeground": "#000000"
+        "hoverBackground": "#3333FF",
+        "selectedBackground": "#3333FF",
+        "selectedForeground": "#FFFFFF"
       }
     },
 
     "WelcomeScreen": {
       "background": "#000000",
       "Projects.background": "#000000",
-      "Projects.selectionBackground": "#1AEBFF",
-      "Projects.selectionInactiveBackground": "#1AEBFF",
+      "Projects.selectionBackground": "#3333FF",
+      "Projects.selectionInactiveBackground": "#3333FF",
       "separatorColor": "#FFFFFF"
     },
 
