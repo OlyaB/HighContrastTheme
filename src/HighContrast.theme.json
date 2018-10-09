@@ -188,6 +188,8 @@
       "selectedDisabledColor": "#AA6E28"
     },
 
+    "TableHeader.cellBorder": "8,0,8,0",
+
     "ToolTip.background": "#40174D",
 
     "ToolWindow": {
