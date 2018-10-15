@@ -1,11 +1,11 @@
 <scheme name="High Contrast" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-10-14T23:20:03</property>
+    <property name="created">2018-10-15T16:44:32</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2018-10-14T23:20:16</property>
-    <property name="originalScheme">High Contrast copy</property>
+    <property name="modified">2018-10-15T16:44:39</property>
+    <property name="originalScheme">High Contrast</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="12" />
@@ -14,13 +14,13 @@
     <option name="ADDED_LINES_COLOR" value="9924" />
     <option name="ANNOTATIONS_COLOR" value="ffffff" />
     <option name="CARET_COLOR" value="ffffff" />
-    <option name="CARET_ROW_COLOR" value="262626" />
+    <option name="CARET_ROW_COLOR" value="66" />
     <option name="CONSOLE_BACKGROUND_KEY" value="0" />
     <option name="DELETED_LINES_COLOR" value="ffa14f" />
     <option name="DOCUMENTATION_COLOR" value="40174d" />
     <option name="ERROR_HINT" value="800002" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="b3b3b3" />
-    <option name="GUTTER_BACKGROUND" value="0" />
+    <option name="GUTTER_BACKGROUND" value="131314" />
     <option name="INDENT_GUIDE" value="666666" />
     <option name="LINE_NUMBERS_COLOR" value="999999" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="ffffff" />
@@ -32,7 +32,7 @@
     <option name="RIGHT_MARGIN_COLOR" value="808080" />
     <option name="SELECTED_INDENT_GUIDE" value="999999" />
     <option name="SELECTED_TEARLINE_COLOR" value="ffffff" />
-    <option name="SELECTION_BACKGROUND" value="2f80" />
+    <option name="SELECTION_BACKGROUND" value="6280" />
     <option name="SEPARATOR_BELOW_COLOR" value="808080" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="ffffff" />
     <option name="TEARLINE_COLOR" value="999999" />
@@ -188,7 +188,7 @@
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ED864A" />
+        <option name="FOREGROUND" value="ed864a" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD2_ATTRIBUTES">
@@ -239,7 +239,7 @@
     </option>
     <option name="DEFAULT_COMMA">
       <value>
-        <option name="FOREGROUND" value="ED864A" />
+        <option name="FOREGROUND" value="ed864a" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -331,7 +331,7 @@
     </option>
     <option name="DEFAULT_SEMICOLON">
       <value>
-        <option name="FOREGROUND" value="ED864A" />
+        <option name="FOREGROUND" value="ed864a" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -349,7 +349,7 @@
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" baseAttributes="TEXT" />
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="ED864A" />
+        <option name="FOREGROUND" value="ed864a" />
       </value>
     </option>
     <option name="DELETED_TEXT_ATTRIBUTES">
@@ -446,7 +446,7 @@
     </option>
     <option name="HTML_TAG">
       <value>
-        <option name="FOREGROUND" value="ED864A" />
+        <option name="FOREGROUND" value="ed864a" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -675,8 +675,8 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="f2f2f2" />
-        <option name="BACKGROUND" value="0" />
+        <option name="FOREGROUND" value="ebebeb" />
+        <option name="BACKGROUND" value="131314" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>

@@ -207,7 +207,7 @@
     "ToolWindow": {
       "header": {
         "active.background": "#450073",
-        "background": "2D1340",
+        "background": "#281A33",
         "border.background": "#e6e6e6",
         "tab.selected": {
           "active.background": "#9C23D9FF",
