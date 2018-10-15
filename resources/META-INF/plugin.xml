@@ -1,6 +1,6 @@
 <idea-plugin>
   <id>com.jetbrains.highContrastTheme</id>
-  <name>High Contrast Theme LOCAL</name>
+  <name>High Contrast Theme</name>
   <version>1.0</version>
   <vendor email="olga.berdnikova@jetbrains.com" url="http://www.jetbrains.com">JetBrains</vendor>
 
