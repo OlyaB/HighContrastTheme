@@ -11,6 +11,7 @@
       "foreground": "#FFFFFF",
       "selectionBackground": "#3333FF",
       "selectionForeground": "#FFFFFF",
+      "selectionInactiveBackground": "#383838",
 
       "disabledBackground": "#33210C",
       "inactiveBackground": "#33210C",
@@ -71,6 +72,15 @@
       },
       "inactive.maskColor": "#000000FF",
       "borderColor": "#e6e6e6"
+    },
+
+    "FileColor": {
+      "Yellow": "#381C00",
+      "Green": "#092E15",
+      "Blue": "#00004D",
+      "Violet": "#471747",
+      "Orange": "#733000",
+      "Rose": "#4D0F22"
     },
 
     "Focus": {
@@ -192,12 +202,12 @@
 
     "TableHeader.cellBorder": "8,0,8,0",
 
-    "ToolTip.background": "#40174D",
+    "ToolTip.background": "#450073",
 
     "ToolWindow": {
       "header": {
         "active.background": "#450073",
-        "background": "31084D",
+        "background": "2D1340",
         "border.background": "#e6e6e6",
         "tab.selected": {
           "active.background": "#9C23D9FF",
