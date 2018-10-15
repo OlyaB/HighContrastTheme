@@ -177,6 +177,8 @@
       "Advertiser.background": "000080"
     },
 
+    "Separator.foreground": "#b3b3b3",
+
     "SidePanel.background": "#000000",
 
     "Spinner.darcula.disabledButtonColor": "#FF0000",
@@ -194,12 +196,12 @@
 
     "ToolWindow": {
       "header": {
-        "active.background": "#650D80",
-        "background": "40174D",
+        "active.background": "#450073",
+        "background": "31084D",
         "border.background": "#e6e6e6",
         "tab.selected": {
-          "active.background": "#000000",
-          "background": "#000000"
+          "active.background": "#9C23D9FF",
+          "background": "#4D0080FF"
         }
       },
       "Button": {
