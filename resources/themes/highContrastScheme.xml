@@ -1,11 +1,11 @@
-<scheme name="High Contrast" version="142" parent_scheme="Darcula">
+<scheme name="High сontrast" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2018-10-15T16:44:32</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.0.0</property>
     <property name="modified">2018-10-15T16:44:39</property>
-    <property name="originalScheme">High Contrast</property>
+    <property name="originalScheme">High contrast</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="12" />

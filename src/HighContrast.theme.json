@@ -1,5 +1,5 @@
 {
-  "name": "High Contrast",
+  "name": "High сontrast LOCAL",
   "dark": true,
   "author": "JetBrains",
 
@@ -60,6 +60,12 @@
       "editable.arrowButtonBackground": "#000000",
       "arrowButtonForeground": "#FFFFFF",
       "arrowButtonDisabledForeground": "#AA6E28"
+    },
+
+    "Editor": {
+      "background": "#1f1f1f",
+      "foreground": "#CCCCCC",
+      "shortcutForeground": "#D2F53C"
     },
 
     "EditorPane.inactiveBackground": "#000000",
@@ -202,6 +208,15 @@
 
     "TableHeader.cellBorder": "8,0,8,0",
 
+    "ToggleButton": {
+      "on.background":  "#000080",
+      "off.background": "#000000",
+      "on.foreground":  "#FFFFFF",
+      "off.foreground": "#FFFFFF",
+      "buttonColor":  "#FFFFFF",
+      "borderColor": "#FFFFFF"
+    },
+
     "ToolTip.background": "#450073",
 
     "ToolWindow": {
@@ -229,7 +244,7 @@
       "separatorColor": "#e6e6e6"
     },
 
-    "Window.border" : "0,1,1,1,E6E6E6"
+    "Window.border" : "1,1,1,1,E6E6E6"
   },
 
   "icons": {
