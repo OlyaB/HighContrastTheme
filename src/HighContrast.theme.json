@@ -62,6 +62,10 @@
       "arrowButtonDisabledForeground": "#AA6E28"
     },
 
+    "ComboPopup.border": "1,1,1,1,E6E6E6",
+
+    "DebuggerTabs.active.background": "#000080",
+
     "Editor": {
       "background": "#1f1f1f",
       "foreground": "#CCCCCC",
@@ -157,10 +161,14 @@
       "Border.color": "#e6e6e6",
       "Toolbar.Border.color": "#b3b3b3",
       "separatorColor": "#b3b3b3",
-      "separator.foreground": "#FFFFFF",
+      "Separator.foreground": "#FFFFFF",
       "Header.activeBackground": "#000080",
       "Header.inactiveBackground": "#000080",
-      "Advertiser.background": "000080"
+      "Advertiser": {
+        "background": "#000080",
+        "borderColor": "#000080",
+        "borderInsets": "3,8,5,0"
+      }
     },
 
     "PopupMenu": {
@@ -203,7 +211,8 @@
 
     "TabbedPane": {
       "selectedColor": "#1AEBFF",
-      "selectedDisabledColor": "#AA6E28"
+      "selectedDisabledColor": "#AA6E28",
+      "borderColor": "#b3b3b3"
     },
 
     "TableHeader.cellBorder": "8,0,8,0",
