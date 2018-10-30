@@ -12,6 +12,7 @@
       "selectionBackground": "#3333FF",
       "selectionForeground": "#FFFFFF",
       "selectionInactiveBackground": "#383838",
+      "selectionBackgroundInactive": "#383838",
 
       "disabledBackground": "#33210C",
       "inactiveBackground": "#33210C",
@@ -66,7 +67,7 @@
 
     "CompletionPopup":  {
       "matchForeground": "#ED94FF",
-      "borderColor": "#e6e6e6"
+      "matchSelectionForeground": "#ED94FF"
     },
 
     "DebuggerTabs.active.background": "#000080",
@@ -159,6 +160,31 @@
       "color": "#e6e6e6",
       "disabledColor": "#AA6E28",
       "focusedColor": "#1AEBFF"
+    },
+
+    "Plugins": {
+      "Tab": {
+        "active.background": "#3333FF",
+        "hover.background": "#3333FF"
+      },
+
+      "SearchField.borderColor": "#B3B3B3",
+      "SectionHeader.background": "#000080",
+      "tagBackground": "#000080",
+      "tagForeground": "#FFFFFF",
+
+      "Button": {
+        "installForeground": "#1AEBFF",
+        "installBorderColor":"#1AEBFF",
+
+        "installFillForeground": "#000000",
+        "installFillBackground": "#1AEBFF",
+
+        "updateForeground":"#FFFFFF",
+        "updateBackground": "#1AEBFF"
+      },
+
+      "selectionBackground": "#000066"
     },
 
     "Popup": {
