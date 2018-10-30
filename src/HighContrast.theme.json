@@ -70,6 +70,8 @@
       "matchSelectionForeground": "#ED94FF"
     },
 
+    "Component.grayForeground": "#E0861F",
+
     "DebuggerTabs.active.background": "#000080",
 
     "Editor": {
@@ -176,11 +178,9 @@
       "Button": {
         "installForeground": "#1AEBFF",
         "installBorderColor":"#1AEBFF",
-
         "installFillForeground": "#000000",
         "installFillBackground": "#1AEBFF",
-
-        "updateForeground":"#FFFFFF",
+        "updateForeground":"#000000",
         "updateBackground": "#1AEBFF"
       },
 
