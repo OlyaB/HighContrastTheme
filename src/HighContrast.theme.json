@@ -229,7 +229,7 @@
         "borderColor": "#b3b3b3",
         "grayForeground": "#E0861F"
       },
-      "Advertiser.background": "000080"
+      "Advertiser.background": "#000080"
     },
 
     "Separator.foreground": "#b3b3b3",
