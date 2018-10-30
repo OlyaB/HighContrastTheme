@@ -248,6 +248,8 @@
 
     "TableHeader.cellBorder": "8,0,8,0",
 
+    "Table.stripeColor": "#000033",
+
     "ToggleButton": {
       "on.background":  "#000080",
       "off.background": "#000000",
