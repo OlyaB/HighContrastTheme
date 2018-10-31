@@ -102,9 +102,9 @@
     },
 
     "FlameGraph": {
-      "JVMBackground": "#FDFF04",
-      "JVMSearchNotMatchedBackground": "#858503",
-      "nativeBackground": "#00EBFF",
+      "JVMBackground": "#FFD333",
+      "JVMSearchNotMatchedBackground": "#806919",
+      "nativeBackground": "#1AEBFF",
       "nativeSearchNotMatchedBackground":"#00838F",
       "parentBackground":"#FFFFFF",
       "parentSearchNotMatchedBackground": "#757575",
