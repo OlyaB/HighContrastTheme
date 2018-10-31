@@ -19,7 +19,9 @@
 
       "disabledForeground": "#E0861F",
       "disabledText": "#E0861F",
-      "inactiveForeground": "#E0861F"
+      "inactiveForeground": "#E0861F",
+
+      "errorForeground": "#FA3232"
     },
 
     "ActionButton": {
@@ -260,7 +262,11 @@
 
     "SidePanel.background": "#000000",
 
-    "Spinner.darcula.disabledButtonColor": "#FF0000",
+    "SpeedSearch": {
+      "foreground": "#000000",
+      "borderColor": "#000000",
+      "background": "#1AEBFF"
+    },
 
     "StatusBar.borderColor": "#b3b3b3",
 
@@ -304,6 +310,16 @@
         "selectedBackground": "#3333FF",
         "selectedForeground": "#FFFFFF"
       }
+    },
+
+    "VersionControl": {
+      "Log.Commit.currentBranchBackground": "#000040",
+      "Log.Commit.unmatchedForeground": "#E0861F",
+      "FileHistory.Commit.selectedBranchBackground": "#000040"
+    },
+
+    "Git.Log.Ref": {
+      "Tag": "#3333FFFF"
     },
 
     "WelcomeScreen": {
