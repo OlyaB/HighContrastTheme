@@ -289,7 +289,13 @@
       "borderColor": "#FFFFFF"
     },
 
-    "ToolTip.background": "#450073",
+    "ToolTip": {
+      "background": "#450073",
+      "Actions": {
+        "background": "#281A33",
+        "grayForeground": "#E0861F"
+      }
+    },
 
     "ToolWindow": {
       "header": {
