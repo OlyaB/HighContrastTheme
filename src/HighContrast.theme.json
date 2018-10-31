@@ -101,6 +101,30 @@
       "Rose": "#4D0F22"
     },
 
+    "FlameGraph": {
+      "JVMBackground": "#FDFF04",
+      "JVMSearchNotMatchedBackground": "#858503",
+      "nativeBackground": "#00EBFF",
+      "nativeSearchNotMatchedBackground":"#00838F",
+      "parentBackground":"#FFFFFF",
+      "parentSearchNotMatchedBackground": "#757575",
+
+      "JVMFocusBackground":"#3333FF",
+      "JVMFocusSearchNotMatchedBackground": "#3333FF",
+      "nativeFocusBackground": "#3333FF",
+      "nativeFocusSearchNotMatchedBackground":"#3333FF",
+      "parentFocusBackground":"#3333FF",
+      "parentFocusSearchNotMatchedBackground": "#3333FF",
+
+      "JVMFrameForeground":"#000000",
+      "nativeFrameForeground":"#000000",
+      "parentFrameForeground":"#000000",
+
+      "JVMFocusedFrameForeground": "#FFFFFF",
+      "nativeFocusedFrameForeground": "#FFFFFF",
+      "parentFocusedFrameForeground": "#FFFFFF"
+    },
+
     "Focus": {
       "borderColor": "#1AEBFF",
       "defaultButtonBorderColor": "#1AEBFF"
@@ -133,7 +157,7 @@
 
       "Error": {
         "background": "#800002",
-        "borderColor": "#73454B"
+        "borderColor": "#E6194B"
       },
 
       "MoreButton": {
@@ -153,7 +177,7 @@
       },
 
       "ToolWindowInfo": {
-        "background": "#000080",
+        "background": "#450073",
         "borderColor": "#e6e6e6"
       }
     },
