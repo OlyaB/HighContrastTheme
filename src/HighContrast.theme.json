@@ -320,13 +320,9 @@
     },
 
     "VersionControl": {
-      "Log.Commit.currentBranchBackground": "#000040",
+      "Log.Commit.currentBranchBackground": "#0D0D40",
       "Log.Commit.unmatchedForeground": "#E0861F",
-      "FileHistory.Commit.selectedBranchBackground": "#000040"
-    },
-
-    "Git.Log.Ref": {
-      "Tag": "#3333FFFF"
+      "FileHistory.Commit.selectedBranchBackground": "#0D0D40"
     },
 
     "WelcomeScreen": {
