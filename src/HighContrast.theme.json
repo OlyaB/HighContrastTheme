@@ -156,6 +156,7 @@
     "Notification": {
       "background": "#000080",
       "borderColor": "#e6e6e6",
+      "Link.foreground": "#D2F53C",
 
       "Error": {
         "background": "#800002",
