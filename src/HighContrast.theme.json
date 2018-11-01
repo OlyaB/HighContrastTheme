@@ -256,7 +256,15 @@
         "borderColor": "#b3b3b3",
         "grayForeground": "#E0861F"
       },
-      "Advertiser.background": "#000080"
+      "Advertiser": {
+        "background": "#000080",
+        "borderInsets": "3,8,5,0"
+      }
+    },
+
+    "SearchMatch": {
+      "startColor": "#FFD333FF",
+      "endColor": "#FFD333FF"
     },
 
     "Separator.foreground": "#b3b3b3",
@@ -320,8 +328,14 @@
     },
 
     "VersionControl": {
-      "Log.Commit.currentBranchBackground": "#0D0D40",
-      "Log.Commit.unmatchedForeground": "#E0861F",
+      "Log.Commit": {
+        "currentBranchBackground": "#0D0D40",
+        "unmatchedForeground": "#E0861F"
+      },
+      "Ref": {
+        "backgroundBase": "#3333FF",
+        "backgroundBrightness": 0.7
+      },
       "FileHistory.Commit.selectedBranchBackground": "#0D0D40"
     },
 
