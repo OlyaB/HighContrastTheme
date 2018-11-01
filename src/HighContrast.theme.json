@@ -9,6 +9,7 @@
     "*": {
       "background": "#000000",
       "foreground": "#FFFFFF",
+
       "selectionBackground": "#3333FF",
       "selectionForeground": "#FFFFFF",
       "selectionInactiveBackground": "#383838",
@@ -20,6 +21,9 @@
       "disabledForeground": "#E0861F",
       "disabledText": "#E0861F",
       "inactiveForeground": "#E0861F",
+
+      "acceleratorForeground": "#E6E6E6",
+      "acceleratorSelectionForeground": "#E6E6E6",
 
       "errorForeground": "#FA3232"
     },
