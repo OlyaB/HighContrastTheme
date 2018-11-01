@@ -130,7 +130,11 @@
 
     "Focus": {
       "borderColor": "#1AEBFF",
-      "defaultButtonBorderColor": "#1AEBFF"
+      "defaultButtonBorderColor": "#1AEBFF",
+      "activeErrorBorderColor": "#E6194B",
+      "inactiveErrorBorderColor": "#800002",
+      "activeWarningBorderColor": "#F58231",
+      "inactiveWarningBorderColor": "#804605"
     },
 
     "Group.separatorColor": "#b3b3b3",
@@ -325,6 +329,13 @@
         "selectedBackground": "#3333FF",
         "selectedForeground": "#FFFFFF"
       }
+    },
+
+    "ValidationTooltip": {
+      "errorBackgroundColor": "#800002",
+      "errorBorderColor": "#E6194B",
+      "warningBackgroundColor": "#804605",
+      "warningBorderColor": "#F58231"
     },
 
     "VersionControl": {
