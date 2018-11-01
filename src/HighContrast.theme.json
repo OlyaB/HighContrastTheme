@@ -69,7 +69,8 @@
 
     "CompletionPopup":  {
       "matchForeground": "#ED94FF",
-      "matchSelectionForeground": "#ED94FF"
+      "matchSelectionForeground": "#ED94FF",
+      "grayForeground": "#E0861F"
     },
 
     "Component.grayForeground": "#E0861F",
@@ -217,6 +218,7 @@
     "Popup": {
       "paintBorder": true,
       "Border.color": "#e6e6e6",
+      "Border.inactiveColor": "#e6e6e6",
       "Toolbar.Border.color": "#b3b3b3",
       "separatorColor": "#b3b3b3",
       "Separator.foreground": "#FFFFFF",
