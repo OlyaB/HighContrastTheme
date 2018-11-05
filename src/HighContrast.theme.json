@@ -35,25 +35,24 @@
       "pressedBorderColor": "#1AEBFF"
     },
 
-    "Button.darcula": {
-      "startColor": "#000000",
-      "endColor": "#000000",
-      "outlineStartColor": "#FFFFFF",
-      "outlineEndColor": "#FFFFFF",
-      "focusedOutlineColor": "#1AEBFF",
+    "Button": {
+      "startBackground": "#000000",
+      "endBackground": "#000000",
+      "startBorderColor": "#FFFFFF",
+      "endBorderColor": "#FFFFFF",
+      "focusedBorderColor": "#1AEBFF",
 
-      "defaultStartColor": "#1AEBFF",
-      "defaultEndColor": "#1AEBFF",
-      "defaultOutlineColor": "#1AEBFF",
-      "outlineDefaultStartColor": "#1AEBFF",
-      "outlineDefaultEndColor": "#1AEBFF",
-      "defaultFocusedOutlineColor": "#000000",
+      "disabledBorderColor": "#AA6E28",
 
-      "selectedButtonForeground": "#000000",
-
-      "disabledOutlineColor": "#AA6E28",
-
-      "smallComboButtonBackground": "#000000"
+      "default": {
+        "foreground": "#000000",
+        "startBackground": "#1AEBFF",
+        "endBackground": "#1AEBFF",
+        "borderColor": "#1AEBFF",
+        "startBorderColor": "#1AEBFF",
+        "endBorderColor": "#1AEBFF",
+        "focusedBorderColor": "#000000"
+      }
     },
 
     "Borders": {
@@ -305,6 +304,8 @@
       "buttonColor":  "#FFFFFF",
       "borderColor": "#FFFFFF"
     },
+
+    "ToolBar.comboBoxButtonBackground": "#000000",
 
     "ToolTip": {
       "background": "#450073",
