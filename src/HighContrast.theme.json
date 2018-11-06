@@ -27,7 +27,10 @@
 
       "errorForeground": "#FA3232",
 
-      "borderColor": "#E6E6E6"
+      "borderColor": "#E6E6E6",
+      "disabledBorderColor": "#AA6E28",
+      "focusColor": "#1AEBFF",
+      "focusedBorderColor": "#1AEBFF"
     },
 
     "ActionButton": {
@@ -42,9 +45,6 @@
       "endBackground": "#000000",
       "startBorderColor": "#FFFFFF",
       "endBorderColor": "#FFFFFF",
-      "focusedBorderColor": "#1AEBFF",
-
-      "disabledBorderColor": "#AA6E28",
 
       "default": {
         "foreground": "#000000",
@@ -52,8 +52,7 @@
         "endBackground": "#1AEBFF",
         "startBorderColor": "#1AEBFF",
         "endBorderColor": "#1AEBFF",
-        "focusedBorderColor": "#000000",
-        "focusColor": "#1AEBFF"
+        "focusedBorderColor": "#000000"
       }
     },
 
@@ -81,10 +80,6 @@
     "Component": {
       "grayForeground": "#E0861F",
 
-      "disabledBorderColor": "#AA6E28",
-      "focusedBorderColor": "#1AEBFF",
-
-      "focusColor": "#1AEBFF",
       "focusErrorColor": "#E6194B",
       "inactiveFocusErrorColor": "#800002",
       "focusWarningColor": "#F58231",
