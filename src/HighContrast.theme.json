@@ -21,6 +21,7 @@
       "disabledForeground": "#E0861F",
       "disabledText": "#E0861F",
       "inactiveForeground": "#E0861F",
+      "grayForeground": "#E0861F",
 
       "acceleratorForeground": "#E6E6E6",
       "acceleratorSelectionForeground": "#E6E6E6",
@@ -73,13 +74,10 @@
 
     "CompletionPopup":  {
       "matchForeground": "#ED94FF",
-      "matchSelectionForeground": "#ED94FF",
-      "grayForeground": "#E0861F"
+      "matchSelectionForeground": "#ED94FF"
     },
 
     "Component": {
-      "grayForeground": "#E0861F",
-
       "focusErrorColor": "#E6194B",
       "inactiveFocusErrorColor": "#800002",
       "focusWarningColor": "#F58231",
@@ -138,12 +136,9 @@
       "parentFocusedFrameForeground": "#FFFFFF"
     },
 
-   "Group.separatorColor": "#b3b3b3",
+    "Group.separatorColor": "#b3b3b3",
 
-    "Label": {
-      "selectedDisabledForeground": "#E0861F",
-      "grayForeground": "#E0861F"
-    },
+    "Label.selectedDisabledForeground": "#E0861F",
 
     "Link": {
       "activeForeground": "#D2F53C",
@@ -243,10 +238,7 @@
         "background": "#3333FF",
         "foreground": "#FFFFFF"
       },
-      "SearchField": {
-        "borderColor": "#b3b3b3",
-        "grayForeground": "#E0861F"
-      },
+      "SearchField.borderColor": "#b3b3b3",
       "Advertiser": {
         "background": "#000080",
         "borderInsets": "3,8,5,0"
@@ -293,10 +285,7 @@
 
     "ToolTip": {
       "background": "#450073",
-      "Actions": {
-        "background": "#281A33",
-        "grayForeground": "#E0861F"
-      }
+      "Actions.background": "#281A33"
     },
 
     "ToolWindow": {
