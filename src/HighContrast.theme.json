@@ -25,7 +25,9 @@
       "acceleratorForeground": "#E6E6E6",
       "acceleratorSelectionForeground": "#E6E6E6",
 
-      "errorForeground": "#FA3232"
+      "errorForeground": "#FA3232",
+
+      "borderColor": "#E6E6E6"
     },
 
     "ActionButton": {
@@ -79,7 +81,6 @@
     "Component": {
       "grayForeground": "#E0861F",
 
-      "borderColor": "#e6e6e6",
       "disabledBorderColor": "#AA6E28",
       "focusedBorderColor": "#1AEBFF",
 
@@ -106,8 +107,7 @@
         "background": "#3333FF",
         "underlineColor": "#3333FF"
       },
-      "inactive.maskColor": "#000000FF",
-      "borderColor": "#e6e6e6"
+      "inactive.maskColor": "#000000FF"
     },
 
     "FileColor": {
@@ -157,16 +157,12 @@
       "visitedForeground": "#D2F53C"
     },
 
-    "Menu": {
-      "borderColor": "#e6e6e6",
-      "separatorColor": "#b3b3b3"
-    },
+    "Menu.separatorColor": "#b3b3b3",
 
     "NavBar.borderColor": "#b3b3b3",
 
     "Notification": {
       "background": "#000080",
-      "borderColor": "#e6e6e6",
       "Link.foreground": "#D2F53C",
 
       "Error": {
@@ -190,10 +186,7 @@
         "borderColor": "#F58231"
       },
 
-      "ToolWindowInfo": {
-        "background": "#450073",
-        "borderColor": "#e6e6e6"
-      }
+      "ToolWindowInfo.background": "#450073"
     },
 
     "Plugins": {
@@ -221,7 +214,6 @@
 
     "Popup": {
       "paintBorder": true,
-      "borderColor": "#e6e6e6",
       "inactiveBorderColor": "#e6e6e6",
       "Toolbar.borderColor": "#b3b3b3",
       "separatorColor": "#b3b3b3",
@@ -313,8 +305,6 @@
     },
 
     "ToolWindow": {
-      "Header.borderColor": "#e6e6e6",
-
       "active": {
         "Header.background": "#450073",
         "HeaderTab.background": "#9C23D9FF",
