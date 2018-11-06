@@ -31,7 +31,9 @@
       "borderColor": "#E6E6E6",
       "disabledBorderColor": "#AA6E28",
       "focusColor": "#1AEBFF",
-      "focusedBorderColor": "#1AEBFF"
+      "focusedBorderColor": "#1AEBFF",
+
+      "separatorColor": "#b3b3b3"
     },
 
     "ActionButton": {
@@ -96,7 +98,6 @@
 
     "EditorTabs": {
       "active": {
-        "foreground": "#FFFFFF",
         "background": "#3333FF",
         "underlineColor": "#3333FF"
       },
@@ -136,8 +137,6 @@
       "parentFocusedFrameForeground": "#FFFFFF"
     },
 
-    "Group.separatorColor": "#b3b3b3",
-
     "Label.selectedDisabledForeground": "#E0861F",
 
     "Link": {
@@ -146,8 +145,6 @@
       "pressedForeground": "#D2F53C",
       "visitedForeground": "#D2F53C"
     },
-
-    "Menu.separatorColor": "#b3b3b3",
 
     "NavBar.borderColor": "#b3b3b3",
 
@@ -206,7 +203,6 @@
       "paintBorder": true,
       "inactiveBorderColor": "#e6e6e6",
       "Toolbar.borderColor": "#b3b3b3",
-      "separatorColor": "#b3b3b3",
       "Separator.foreground": "#FFFFFF",
       "Header.activeBackground": "#000080",
       "Header.inactiveBackground": "#000080",
