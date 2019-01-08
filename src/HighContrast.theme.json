@@ -27,7 +27,14 @@
       "acceleratorForeground": "#E6E6E6",
       "acceleratorSelectionForeground": "#E6E6E6",
 
-      "errorForeground": "#FA3232"
+      "errorForeground": "#FA3232",
+
+      "borderColor": "#E6E6E6",
+      "disabledBorderColor": "#AA6E28",
+      "focusColor": "#1AEBFF",
+      "focusedBorderColor": "#1AEBFF",
+
+      "separatorColor": "#B3B3B3"
     },
 
     "ActionButton": {
@@ -42,9 +49,6 @@
       "endBackground": "#000000",
       "startBorderColor": "#FFFFFF",
       "endBorderColor": "#FFFFFF",
-      "focusedBorderColor": "#1AEBFF",
-
-      "disabledBorderColor": "#AA6E28",
 
       "default": {
         "foreground": "#000000",
@@ -52,8 +56,7 @@
         "endBackground": "#1AEBFF",
         "startBorderColor": "#1AEBFF",
         "endBorderColor": "#1AEBFF",
-        "focusedBorderColor": "#000000",
-        "focusColor": "#1AEBFF"
+        "focusedBorderColor": "#000000"
       }
     },
 
@@ -80,11 +83,6 @@
     },
 
     "Component": {
-      "borderColor": "#e6e6e6",
-      "disabledBorderColor": "#AA6E28",
-      "focusedBorderColor": "#1AEBFF",
-
-      "focusColor": "#1AEBFF",
       "errorFocusColor": "#E6194B",
       "inactiveErrorFocusColor": "#800002",
       "warningFocusColor": "#F58231",
@@ -105,8 +103,7 @@
       "selectedForeground": "#FFFFFF",
       "selectedBackground": "#3333FF",
       "underlineColor": "#3333FF",
-      "inactiveMaskColor": "#000000FF",
-      "borderColor": "#e6e6e6"
+      "inactiveMaskColor": "#000000FF"
     },
 
     "FileColor": {
@@ -142,8 +139,6 @@
       "parentFocusedFrameForeground": "#FFFFFF"
     },
 
-    "Group.separatorColor": "#b3b3b3",
-
     "Label.selectedDisabledForeground": "#E0861F",
 
     "Link": {
@@ -153,16 +148,10 @@
       "visitedForeground": "#D2F53C"
     },
 
-    "Menu": {
-      "borderColor": "#e6e6e6",
-      "separatorColor": "#b3b3b3"
-    },
-
     "NavBar.borderColor": "#b3b3b3",
 
     "Notification": {
       "background": "#000080",
-      "borderColor": "#e6e6e6",
       "linkForeground": "#D2F53C",
 
       "errorForeground": "#FFFFFF",
@@ -216,10 +205,8 @@
 
     "Popup": {
       "paintBorder": true,
-      "borderColor": "#e6e6e6",
       "inactiveBorderColor": "#e6e6e6",
       "Toolbar.borderColor": "#b3b3b3",
-      "separatorColor": "#b3b3b3",
       "separatorForeground": "#FFFFFF",
       "Header.activeBackground": "#000080",
       "Header.inactiveBackground": "#000080",
@@ -262,8 +249,6 @@
       "startBackground": "#FFD333FF",
       "endBackground": "#FFD333FF"
     },
-
-    "Separator.foreground": "#b3b3b3",
 
     "SidePanel.background": "#000000",
 
@@ -308,8 +293,7 @@
     "ToolWindow": {
       "Header": {
         "background": "#450073",
-        "inactiveBackground": "#281A33",
-        "borderColor": "#e6e6e6"
+        "inactiveBackground": "#281A33"
       },
 
       "HeaderTab": {
