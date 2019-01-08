@@ -158,7 +158,6 @@
       "errorBorderColor": "#E6194B",
 
       "MoreButton": {
-        "foreground": "#FFFFFF",
         "innerBorderColor": "#000000"
       },
 
@@ -273,9 +272,7 @@
     },
 
     "ToggleButton": {
-      "on.background":  "#000080",
-      "on.foreground":  "#FFFFFF",
-      "off.foreground": "#FFFFFF",
+      "on.background": "#000080",
       "buttonColor":  "#FFFFFF",
       "borderColor": "#FFFFFF"
     },
