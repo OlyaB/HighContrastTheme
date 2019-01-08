@@ -70,7 +70,6 @@
       "ArrowButton": {
         "iconColor": "#FFFFFF",
         "disabledIconColor": "#AA6E28",
-        "background": "#000000",
         "nonEditableBackground": "#000000"
       }
     },
@@ -160,7 +159,6 @@
 
       "MoreButton": {
         "foreground": "#FFFFFF",
-        "background": "#000000",
         "innerBorderColor": "#000000"
       },
 
@@ -250,8 +248,6 @@
       "endBackground": "#FFD333FF"
     },
 
-    "SidePanel.background": "#000000",
-
     "SpeedSearch": {
       "foreground": "#000000",
       "borderColor": "#000000",
@@ -278,7 +274,6 @@
 
     "ToggleButton": {
       "on.background":  "#000080",
-      "off.background": "#000000",
       "on.foreground":  "#FFFFFF",
       "off.foreground": "#FFFFFF",
       "buttonColor":  "#FFFFFF",
@@ -330,8 +325,6 @@
     },
 
     "WelcomeScreen": {
-      "background": "#000000",
-      "Projects.background": "#000000",
       "Projects.selectionBackground": "#3333FF",
       "Projects.selectionInactiveBackground": "#3333FF",
       "separatorColor": "#e6e6e6"
