@@ -157,9 +157,7 @@
       "errorBackground": "#800002",
       "errorBorderColor": "#E6194B",
 
-      "MoreButton": {
-        "innerBorderColor": "#000000"
-      },
+      "MoreButton.innerBorderColor": "#000000",
 
       "ToolWindow": {
         "infoForeground": "#FFFFFF",
@@ -322,7 +320,6 @@
     },
 
     "WelcomeScreen": {
-      "Projects.selectionBackground": "#3333FF",
       "Projects.selectionInactiveBackground": "#3333FF",
       "separatorColor": "#e6e6e6"
     },
