@@ -85,7 +85,9 @@
       "errorFocusColor": "#E6194B",
       "inactiveErrorFocusColor": "#800002",
       "warningFocusColor": "#F58231",
-      "inactiveWarningFocusColor": "#804605"
+      "inactiveWarningFocusColor": "#804605",
+      "iconColor": "#FFFFFF",
+      "hoverIconColor": "#FFFFFF"
     },
 
     "DebuggerTabs.active.background": "#000080",
