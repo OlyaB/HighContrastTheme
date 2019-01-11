@@ -90,6 +90,11 @@
       "hoverIconColor": "#FFFFFF"
     },
 
+    "Counter": {
+      "background": "#FFFFFF",
+      "foreground": "#000000"
+    },
+
     "DebuggerTabs.active.background": "#000080",
 
     "Editor": {
