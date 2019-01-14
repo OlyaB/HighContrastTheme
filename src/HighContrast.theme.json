@@ -97,6 +97,12 @@
 
     "DebuggerTabs.active.background": "#000080",
 
+    "DragAndDrop": {
+      "areaForeground": "#FFFFFF",
+      "areaBackground": "#00838f",
+      "areaBorderColor": "#1AEBFF"
+    },
+
     "Editor": {
       "background": "#1f1f1f",
       "foreground": "#CCCCCC",
