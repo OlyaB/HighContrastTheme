@@ -95,7 +95,7 @@
       "foreground": "#000000"
     },
 
-    "DebuggerTabs.active.background": "#000080",
+    "DebuggerTabs.selectedBackground": "#000080",
 
     "DragAndDrop": {
       "areaForeground": "#FFFFFF",
@@ -173,9 +173,9 @@
       "MoreButton.innerBorderColor": "#000000",
 
       "ToolWindow": {
-        "infoForeground": "#FFFFFF",
-        "infoBackground": "#450073",
-        "infoBorderColor": "#e6e6e6",
+        "informativeForeground": "#FFFFFF",
+        "informativeBackground": "#450073",
+        "informativeBorderColor": "#e6e6e6",
 
         "warningForeground": "#FFFFFF",
         "warningBackground": "#804605",
@@ -283,7 +283,10 @@
     },
 
     "ToggleButton": {
-      "on.background": "#000080",
+      "onForeground": "#FFFFFF",
+      "onBackground": "#000080",
+      "offForeground": "#FFFFFF",
+      "offBackground": "#000000",
       "buttonColor":  "#FFFFFF",
       "borderColor": "#FFFFFF"
     },
