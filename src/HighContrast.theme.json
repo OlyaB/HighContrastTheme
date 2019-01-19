@@ -241,6 +241,12 @@
       "passedEndColor": "#15451E"
     },
 
+    "ScrollBar": {
+      "Mac": {
+        "trackColor": ""
+      }
+    },
+
     "SearchEverywhere": {
       "Tab": {
         "selectedForeground": "#FFFFFF",
