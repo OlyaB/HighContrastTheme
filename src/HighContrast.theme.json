@@ -208,7 +208,7 @@
         "updateBackground": "#1AEBFF"
       },
 
-      "selectionBackground": "#000066"
+      "lightSelectionBackground": "#000066"
     },
 
     "Popup": {
@@ -242,7 +242,31 @@
     },
 
     "ScrollBar": {
+      "Transparent": {
+        "thumbColor": "#A6A6A6",
+        "thumbBorderColor": "#000000",
+        "hoverThumbColor": "#E6E6E6",
+        "hoverThumbBorderColor": "#000000",
+        "hoverTrackColor": "#E6E6E678"
+      },
+      "thumbColor": "#A6A6A6",
+      "thumbBorderColor": "#000000",
+      "hoverThumbColor": "#E6E6E6",
+      "hoverThumbBorderColor": "#000000",
+      "trackColor": "",
+
       "Mac": {
+        "Transparent": {
+          "thumbColor": "#A6A6A6",
+          "thumbBorderColor": "#000000",
+          "hoverThumbColor": "#E6E6E6",
+          "hoverThumbBorderColor": "#000000",
+          "hoverTrackColor": "#E6E6E678"
+        },
+        "thumbColor": "#A6A6A6",
+        "thumbBorderColor": "#000000",
+        "hoverThumbColor": "#E6E6E6",
+        "hoverThumbBorderColor": "#000000",
         "trackColor": ""
       }
     },
