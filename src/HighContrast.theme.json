@@ -95,6 +95,8 @@
       "foreground": "#000000"
     },
 
+    "DebuggerPopup.borderColor": "#E6E6E6",
+
     "DebuggerTabs.selectedBackground": "#000080",
 
     "DragAndDrop": {
@@ -149,6 +151,11 @@
       "JVMFocusedFrameForeground": "#FFFFFF",
       "nativeFocusedFrameForeground": "#FFFFFF",
       "parentFocusedFrameForeground": "#FFFFFF"
+    },
+
+    "InplaceRefactoringPopup": {
+      "background": "#450073",
+      "borderColor": "#E6E6E6"
     },
 
     "Label.selectedDisabledForeground": "#E0861F",
@@ -376,23 +383,12 @@
 
   "icons": {
     "ColorPalette": {
-
-      "#43494A": "#000000",
-      "#6B6B6B": "#FFFFFF",
-      "#A7A7A7": "#FFFFFF",
-      "#3D6185": "#1AEBFF",
-      "#466D94": "#1AEBFF",
-      "#3C3F41": "#000000",
-      "#545556": "#AA6E28",
-      "#606060": "#AA6E28",
-
-      "#7F8B91": "#FFFFFF",
-
       "Actions.Grey": "#FFFFFF",
       "Actions.Red": "#FF3633",
       "Actions.Yellow": "#FFD333",
       "Actions.Green": "#00E61F",
       "Actions.Blue": "#00EAFF",
+      "Actions.GreyInline.Dark": "#FFFFFFFF",
 
       "Objects.Grey": "#FFFFFFFF",
       "Objects.RedStatus": "#FF4340FF",
@@ -404,7 +400,17 @@
       "Objects.Purple": "#A880FFFF",
       "Objects.BlackText": "#000000FF",
       "Objects.YellowDark": "#FFD333FF",
-      "Objects.GreenAndroid": "#00E61FFF"
+      "Objects.GreenAndroid": "#00E61FFF",
+
+      "Checkbox.Background.Default.Dark": "#000000",
+      "Checkbox.Border.Default.Dark": "#FFFFFF",
+      "Checkbox.Foreground.Selected.Dark": "#FFFFFF",
+      "Checkbox.Focus.Wide.Dark": "#1AEBFF",
+      "Checkbox.Focus.Thin.Default.Dark": "#1AEBFF",
+      "Checkbox.Focus.Thin.Selected.Dark": "#1AEBFF",
+      "Checkbox.Background.Disabled.Dark": "#000000",
+      "Checkbox.Border.Disabled.Dark": "#AA6E28",
+      "Checkbox.Foreground.Disabled.Dark": "#AA6E28"
     }
   }
 }
