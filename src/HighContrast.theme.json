@@ -258,16 +258,17 @@
       "Mac": {
         "Transparent": {
           "thumbColor": "#A6A6A6",
-          "thumbBorderColor": "#000000",
+          "thumbBorderColor": "#000000C8",
           "hoverThumbColor": "#E6E6E6",
-          "hoverThumbBorderColor": "#000000",
-          "hoverTrackColor": "#E6E6E678"
+          "hoverThumbBorderColor": "#000000C8",
+          "hoverTrackColor": "#E6E6E65A"
         },
         "thumbColor": "#A6A6A6",
-        "thumbBorderColor": "#000000",
+        "thumbBorderColor": "#000000C8",
         "hoverThumbColor": "#E6E6E6",
-        "hoverThumbBorderColor": "#000000",
-        "trackColor": "#000000"
+        "hoverThumbBorderColor": "#000000C8",
+        "trackColor": "#000000",
+        "hoverTrackColor": "#000000"
       }
     },
 
