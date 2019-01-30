@@ -34,7 +34,8 @@
       "focusColor": "#1AEBFF",
       "focusedBorderColor": "#1AEBFF",
 
-      "separatorColor": "#B3B3B3"
+      "separatorColor": "#B3B3B3",
+      "lineSeparatorColor": "#6A6173"
     },
 
     "ActionButton": {
@@ -197,8 +198,7 @@
       "background": "#281A33",
       "foreground": "#CCCCCC",
       "currentOverloadBackground": "#450073",
-      "currentParameterForeground": "#FFFFFF",
-      "lineSeparatorColor": "#6A6173"
+      "currentParameterForeground": "#FFFFFF"
     },
 
     "Plugins": {
