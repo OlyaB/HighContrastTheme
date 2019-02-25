@@ -41,6 +41,7 @@
     <option name="MODIFIED_LINES_COLOR" value="1aabff" />
     <option name="NOTIFICATION_BACKGROUND" value="80" />
     <option name="QUESTION_HINT" value="5380" />
+    <option name="RECENT_LOCATIONS_SELECTION" value="094A5E" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="b4c738" />
     <option name="RIGHT_MARGIN_COLOR" value="808080" />
     <option name="SELECTED_INDENT_GUIDE" value="999999" />
@@ -58,12 +59,6 @@
     <option name="WHITESPACES" value="ffffff" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="666666" />
     <option name="ScrollBar.background" value="000000"/>
-    <option name="ScrollBar.trackColor" value="000000"/>
-    <option name="ScrollBar.thumbColor" value="FFFFFFBE"/>
-    <option name="ScrollBar.thumbBorderColor" value="000000"/>
-    <option name="ScrollBar.hoverTrackColor" value="000000"/>
-    <option name="ScrollBar.hoverThumbColor" value="FFFFFFBE"/>
-    <option name="ScrollBar.hoverThumbBorderColor" value="000000"/>
     <option name="ScrollBar.Transparent.trackColor" value="E6E6E600"/>
     <option name="ScrollBar.Transparent.thumbColor" value="FFFFFFBE"/>
     <option name="ScrollBar.Transparent.thumbBorderColor" value="000000"/>
