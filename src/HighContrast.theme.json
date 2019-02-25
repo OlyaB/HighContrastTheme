@@ -164,7 +164,8 @@
       "activeForeground": "#D2F53C",
       "hoverForeground": "#D2F53C",
       "pressedForeground": "#D2F53C",
-      "visitedForeground": "#D2F53C"
+      "visitedForeground": "#D2F53C",
+      "secondaryForeground": "#D2F53C"
     },
 
     "NavBar.borderColor": "#b3b3b3",
