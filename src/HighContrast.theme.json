@@ -68,6 +68,7 @@
 
     "ComboBox": {
       "nonEditableBackground": "#000000",
+      "modifiedItemForeground": "#4FF0FF",
       "ArrowButton": {
         "iconColor": "#FFFFFF",
         "disabledIconColor": "#AA6E28",
@@ -359,6 +360,8 @@
         "selectedForeground": "#FFFFFF"
       }
     },
+
+    "Tree.modifiedItemForeground": "#4FF0FF",
 
     "ValidationTooltip": {
       "errorBackground": "#800002",
