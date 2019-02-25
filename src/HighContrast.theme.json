@@ -266,6 +266,7 @@
       "hoverThumbColor": "#E6E6E6",
       "hoverThumbBorderColor": "#000000C8",
       "trackColor": "#000000",
+      "hoverTrackColor": "#E6E6E65A",
 
       "Mac": {
         "Transparent": {
@@ -280,7 +281,7 @@
         "hoverThumbColor": "#E6E6E6",
         "hoverThumbBorderColor": "#000000C8",
         "trackColor": "#000000",
-        "hoverTrackColor": "#000000"
+        "hoverTrackColor": "#E6E6E65A"
       }
     },
 
