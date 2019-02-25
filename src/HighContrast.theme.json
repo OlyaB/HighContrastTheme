@@ -159,8 +159,6 @@
       "borderColor": "#E6E6E6"
     },
 
-    "Label.selectedDisabledForeground": "#E0861F",
-
     "Link": {
       "activeForeground": "#D2F53C",
       "hoverForeground": "#D2F53C",
@@ -373,7 +371,7 @@
         "currentBranchBackground": "#0D0D40",
         "unmatchedForeground": "#E0861F"
       },
-      "Ref": {
+      "RefLabel": {
         "backgroundBase": "#3333FF",
         "backgroundBrightness": 0.7
       },
