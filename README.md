@@ -1,0 +1,1 @@
+This is the High Contrast theme that is bundled with JetBrains IDEs. To use in an IDE, open Settings, Appearance & Behavior | Appearance screen, and select "High contrast" in the Theme dropdown.
