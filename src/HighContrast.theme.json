@@ -101,6 +101,12 @@
 
     "DebuggerTabs.selectedBackground": "#000080",
 
+    "DefaultTabs": {
+      "underlineColor": "#1AEBFF",
+      "inactiveUnderlineColor": "#1AEBFF",
+      "hoverBackground": "#0f6780"
+    },
+
     "DragAndDrop": {
       "areaForeground": "#FFFFFF",
       "areaBackground": "#00838f",
@@ -117,9 +123,12 @@
 
     "EditorTabs": {
       "selectedForeground": "#FFFFFF",
-      "selectedBackground": "#3333FF",
-      "underlineColor": "#3333FF",
-      "inactiveMaskColor": "#000000FF"
+      "selectedBackground": "#0e5d73",
+      "underlineColor": "#1AEBFF",
+      "inactiveMaskColor": "#000000FF",
+
+      "underlinedTabBackground": "#000000",
+      "inactiveColoredFileBackground": "#00000000"
     },
 
     "FileColor": {
@@ -315,7 +324,9 @@
     "TabbedPane": {
       "underlineColor": "#1AEBFF",
       "disabledUnderlineColor": "#AA6E28",
-      "contentAreaColor": "#b3b3b3"
+      "contentAreaColor": "#b3b3b3",
+      "hoverColor": "#0f6780",
+      "focusColor": "#0f6780"
     },
 
     "TableHeader.cellBorder": "8,0,8,0",
@@ -361,6 +372,7 @@
         "selectedForeground": "#FFFFFF"
       }
     },
+
 
     "Tree.modifiedItemForeground": "#4FF0FF",
 
