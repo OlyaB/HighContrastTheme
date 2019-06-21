@@ -104,6 +104,9 @@
     "DefaultTabs": {
       "underlineColor": "#1AEBFF",
       "inactiveUnderlineColor": "#1AEBFF",
+      "underlineHeight": 4,
+
+      "underlinedTabBackground": "#0c4a59",
       "hoverBackground": "#0f6780"
     },
 
@@ -124,8 +127,9 @@
     "EditorTabs": {
       "selectedForeground": "#FFFFFF",
       "selectedBackground": "#0e5d73",
-      "underlineColor": "#1AEBFF",
       "inactiveMaskColor": "#000000FF",
+
+      "underlineColor": "#1AEBFF",
 
       "underlinedTabBackground": "#000000",
       "inactiveColoredFileBackground": "#00000000"
@@ -323,6 +327,7 @@
 
     "TabbedPane": {
       "underlineColor": "#1AEBFF",
+      "tabSelectionHeight": 4,
       "disabledUnderlineColor": "#AA6E28",
       "contentAreaColor": "#b3b3b3",
       "hoverColor": "#0f6780",
