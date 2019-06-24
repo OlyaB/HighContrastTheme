@@ -14,8 +14,8 @@
 
       "selectionBackground": "#3333FF",
       "selectionForeground": "#FFFFFF",
-      "selectionInactiveBackground": "#4d4d4d",
-      "selectionBackgroundInactive": "#4D4D4D",
+      "selectionInactiveBackground": "#42424f",
+      "selectionBackgroundInactive": "#42424F",
 
       "disabledBackground": "#33210C",
       "inactiveBackground": "#33210C",
@@ -180,6 +180,11 @@
       "pressedForeground": "#D2F53C",
       "visitedForeground": "#D2F53C",
       "secondaryForeground": "#D2F53C"
+    },
+
+    "MemoryIndicator": {
+      "usedBackground": "#3333FF",
+      "allocatedBackground": "#7e00d9"
     },
 
     "NavBar.borderColor": "#b3b3b3",
