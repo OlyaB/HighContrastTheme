@@ -33,6 +33,8 @@
       "disabledBorderColor": "#AA6E28",
       "focusColor": "#1AEBFF",
       "focusedBorderColor": "#1AEBFF",
+      "hoverBorderColor": "#1AEBFF",
+      "pressedBorderColor": "#1AEBFF",
 
       "separatorColor": "#B3B3B3",
       "lineSeparatorColor": "#6A6173"
@@ -40,9 +42,7 @@
 
     "ActionButton": {
       "hoverBackground": "#000000",
-      "pressedBackground": "#000000",
-      "hoverBorderColor": "#1AEBFF",
-      "pressedBorderColor": "#1AEBFF"
+      "pressedBackground": "#000000"
     },
 
     "Button": {
@@ -82,6 +82,8 @@
       "matchForeground": "#ED94FF",
       "matchSelectionForeground": "#ED94FF"
     },
+
+
 
     "Component": {
       "errorFocusColor": "#E6194B",
