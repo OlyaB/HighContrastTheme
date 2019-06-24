@@ -104,9 +104,7 @@
     "DefaultTabs": {
       "underlineColor": "#1AEBFF",
       "inactiveUnderlineColor": "#1AEBFF",
-      "underlineHeight": 4,
-
-      "underlinedTabBackground": "#0c4a59",
+      "underlineHeight": 5,
       "hoverBackground": "#0f6780"
     },
 
@@ -130,6 +128,7 @@
       "inactiveMaskColor": "#000000FF",
 
       "underlineColor": "#1AEBFF",
+      "underlineHeight": 4,
 
       "underlinedTabBackground": "#000000",
       "inactiveColoredFileBackground": "#00000000"
@@ -327,7 +326,7 @@
 
     "TabbedPane": {
       "underlineColor": "#1AEBFF",
-      "tabSelectionHeight": 4,
+      "tabSelectionHeight": 5,
       "disabledUnderlineColor": "#AA6E28",
       "contentAreaColor": "#b3b3b3",
       "hoverColor": "#0f6780",
@@ -367,8 +366,12 @@
       "HeaderTab": {
         "selectedBackground": "#9C23D9FF",
         "selectedInactiveBackground": "#4D0080FF",
-        "hoverBackground": "#9C23D9FF",
-        "hoverInactiveBackground": "#4D0080FF"
+        "hoverBackground": "#7e00d9ff",
+        "hoverInactiveBackground": "#7e00d9FF",
+
+        "underlineColor": "#1AEBFF",
+        "inactiveUnderlineColor": "#1AEBFF",
+        "underlineHeight": 5
       },
 
       "Button": {
