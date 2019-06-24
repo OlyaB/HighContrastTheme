@@ -333,7 +333,10 @@
       "focusColor": "#0f6780"
     },
 
-    "TableHeader.cellBorder": "8,0,8,0",
+    "TableHeader": {
+      "cellBorder": "5,0,5,0",
+      "background": "#000080"
+    },
 
     "Table": {
       "stripeColor": "#000033",
